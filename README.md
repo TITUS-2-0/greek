@@ -1,12 +1,12 @@
 # Greek
 [![TEI validation](https://github.com/TITUS-2-0/greek/actions/workflows/validate.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/greek/actions/workflows/validate.yaml)
 ## Datasets
-| id      | language   |   lng_id | titus                                                                                                           | issue                                                  | status         |
-|:--------|:-----------|---------:|:----------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:---------------|
-| vorso   |            |        8 | [Fragmenta Praesocratica](http://titus.uni-frankfurt.de/texte/etcs/grie/vorsokr/vorso.htm)                      | -                                                      | 🟨 in progress |
-| odyss   |            |        8 | [Homer, Odyssee](http://titus.uni-frankfurt.de/texte/etcs/grie/homer/odyssee/odyss.htm)                         | [discuss](https://github.com/TITUS-2-0/greek/issues/1) | 🟨 in progress |
-| kypri-1 |            |        8 | [Legenda Cyprani et Iustinae (Versio A)](http://titus.uni-frankfurt.de/texte/etcs/grie/agio/kypriana/kypri.htm) | -                                                      | 🟥 pending     |
-| kypri   |            |        8 | [Legenda Cyprani et Iustinae (Versio B)](http://titus.uni-frankfurt.de/texte/etcs/grie/agio/kyprianb/kypri.htm) | -                                                      | 🟥 pending     |
-| gnt     |            |        8 | [Novum Testamentum graece](http://titus.uni-frankfurt.de/texte/etcs/grie/gnt/gnt.htm)                           | -                                                      | 🟥 pending     |
-| legmi   |            |        8 | [Legendae Sanctorum militarium](http://titus.uni-frankfurt.de/texte/etcs/grie/agio/legmilit/legmi.htm)          | -                                                      | 🟥 pending     |
-| sept    |            |        8 | [Vetus Testamentum graece iuxta LXX interpretes](http://titus.uni-frankfurt.de/texte/etcs/grie/sept/sept.htm)   | -                                                      | 🟥 pending     |
+| id      | language   | titus                                                                                                           | issue                                                  | status         |
+|:--------|:-----------|:----------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:---------------|
+| vorso   | Greek      | [Fragmenta Praesocratica](http://titus.uni-frankfurt.de/texte/etcs/grie/vorsokr/vorso.htm)                      | -                                                      | 🟨 in progress |
+| odyss   | Greek      | [Homer, Odyssee](http://titus.uni-frankfurt.de/texte/etcs/grie/homer/odyssee/odyss.htm)                         | [discuss](https://github.com/TITUS-2-0/greek/issues/1) | 🟨 in progress |
+| kypri-1 | Greek      | [Legenda Cyprani et Iustinae (Versio A)](http://titus.uni-frankfurt.de/texte/etcs/grie/agio/kypriana/kypri.htm) | -                                                      | 🟥 pending     |
+| kypri   | Greek      | [Legenda Cyprani et Iustinae (Versio B)](http://titus.uni-frankfurt.de/texte/etcs/grie/agio/kyprianb/kypri.htm) | -                                                      | 🟥 pending     |
+| gnt     | Greek      | [Novum Testamentum graece](http://titus.uni-frankfurt.de/texte/etcs/grie/gnt/gnt.htm)                           | -                                                      | 🟥 pending     |
+| legmi   | Greek      | [Legendae Sanctorum militarium](http://titus.uni-frankfurt.de/texte/etcs/grie/agio/legmilit/legmi.htm)          | -                                                      | 🟥 pending     |
+| sept    | Greek      | [Vetus Testamentum graece iuxta LXX interpretes](http://titus.uni-frankfurt.de/texte/etcs/grie/sept/sept.htm)   | -                                                      | 🟥 pending     |
