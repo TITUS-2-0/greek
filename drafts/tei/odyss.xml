@@ -35,14 +35,14 @@
 		<profileDesc>
 			<langUsage>
 				<language ident="grc-Grek-x-homeric">Ionic-Attic Ancient Greek</language>
-				<language ident="grc-Grek-x-ancient">Ionic-Attic Ancient Greek</language>
+				<language ident="grc-Grek">Ionic-Attic Ancient Greek</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="grc-Grek-x-homeric">
 		<body>
 			<div n="1" xml:id="chapter-1" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Α</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Α</head>
 				<l n="1" xml:id="chapter-1-l-1">῎Ανδρά μοι ἔννεπε, Μοῦσα, πολύτροπον, ὃς μάλα πολλὰ</l>
 				<l n="2" xml:id="chapter-1-l-2">πλάγχϑη, ἐπεὶ Τροίης ἱερὸν πτολίεϑρον ἔπερσε·</l>
 				<l n="3" xml:id="chapter-1-l-3">πολλῶν δ' ἀνϑρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,</l>
@@ -489,7 +489,7 @@
 				<l n="444" xml:id="chapter-1-l-444">βούλευε ϕρεσὶν ᾗσιν ὁδόν τὴν πέϕραδ' ᾽Αϑήνη.</l>
 			</div>
 			<div n="2" xml:id="chapter-2" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Β</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Β</head>
 				<l n="1" xml:id="chapter-2-l-445">῎Ημος δ' ἠριγένεια ϕάνη ῥοδοδάκτυλος ᾽Ηώς,</l>
 				<l n="2" xml:id="chapter-2-l-446">ὤρνυτ' ἄρ' ἐξ εὐνῆϕιν ᾽Οδυσσῆος ϕίλος υἱὸς</l>
 				<l n="3" xml:id="chapter-2-l-447">εἵματα ἑσσάμενος, περὶ δὲ ξίϕος ὀξὺ ϑέτ' ὤμῳ,</l>
@@ -925,7 +925,7 @@
 				<l n="434" xml:id="chapter-2-l-877">παννυχίη μέν ῥ' ἥ γε καὶ ἠῶ πεῖρε κέλευϑον.</l>
 			</div>
 			<div n="3" xml:id="chapter-3" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Γ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Γ</head>
 				<l n="1" xml:id="chapter-3-l-878">᾽Ηέλιος δ' ἀνόρουσε, λιπὼν περικαλλέα λίμνην,</l>
 				<l n="2" xml:id="chapter-3-l-879">οὐρανὸν ἐς πολύχαλκον, ἵν' ἀϑανάτοισι ϕαείνοι</l>
 				<l n="3" xml:id="chapter-3-l-880">καὶ ϑνητοῖσι βροτοῖσιν ἐπὶ ζείδωρον ἄρουραν·</l>
@@ -1423,7 +1423,7 @@
 				<l n="497" xml:id="chapter-3-l-1372">δύσετό τ' ἠέλιος σκιόωντό τε πᾶσαι ἀγυιαί.</l>
 			</div>
 			<div n="4" xml:id="chapter-4" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Δ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Δ</head>
 				<l n="1" xml:id="chapter-4-l-1373">Οἱ δ' ἷξον κοίλην Λακεδαίμονα κητώεσσαν,</l>
 				<l n="2" xml:id="chapter-4-l-1374">πρὸς δ' ἄρα δώματ' ἔλων Μενελάου κυδαλίμοιο.</l>
 				<l n="3" xml:id="chapter-4-l-1375">τὸν δ' εὗρον δαινύντα γάμον πολλοῖσιν ἔτῃσιν</l>
@@ -2273,7 +2273,7 @@
 				<l n="847" xml:id="chapter-4-l-2219">ἀμϕίδυμοι· τῇ τόν γε μένον λοχόωντες ᾽Αχαιοί.</l>
 			</div>
 			<div n="5" xml:id="chapter-5" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Ε</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Ε</head>
 				<l n="1" xml:id="chapter-5-l-2220">᾽Ηὼς δ' ἐκ λεχέων παρ' ἀγαυοῦ Τιϑωνοῖο</l>
 				<l n="2" xml:id="chapter-5-l-2221">ὤρνυϑ', ἵν' ἀϑανάτοισι ϕόως ϕέροι ἠδὲ βροτοῖσιν·</l>
 				<l n="3" xml:id="chapter-5-l-2222">οἱ δὲ ϑεοὶ ϑῶκον δὲ καϑίζανον, ἐν δ' ἄρα τοῖσι</l>
@@ -2768,7 +2768,7 @@
 				<l n="493" xml:id="chapter-5-l-2711">δυσπονέος καμάτοιο, ϕίλα βλέϕαρ' ἀμϕικαλύψας.</l>
 			</div>
 			<div n="6" xml:id="chapter-6" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Ζ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Ζ</head>
 				<l n="1" xml:id="chapter-6-l-2712">῝Ως ὁ μὲν ἔνϑα καϑεῦδε πολύτλας δῖος ᾽Οδυσσεὺς</l>
 				<l n="2" xml:id="chapter-6-l-2713">ὕπνῳ καὶ καμάτῳ ἀρημένος: αὐτὰρ ᾽Αϑήνη</l>
 				<l n="3" xml:id="chapter-6-l-2714">βῆ ῥ' ἐς Φαιήκων ἀνδρῶν δῆμόν τε πόλιν τε,</l>
@@ -3099,7 +3099,7 @@
 				<l n="331" xml:id="chapter-6-l-3039">ἀντιϑέῳ ᾽Οδυσῆι πάρος ἣν γαῖαν ἱκέσϑαι.</l>
 			</div>
 			<div n="7" xml:id="chapter-7" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Η</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Η</head>
 				<l n="1" xml:id="chapter-7-l-3040">῝Ως ὁ μὲν ἔνϑ' ἠρᾶτο πολύτλας δῖος ᾽Οδυσσεύς,</l>
 				<l n="2" xml:id="chapter-7-l-3041">κούρην δὲ προτὶ ἄστυ ϕέρεν μένος ἡμιόνοιιν.</l>
 				<l n="3" xml:id="chapter-7-l-3042">ἡ δ' ὅτε δὴ οὗ πατρὸς ἀγακλυτὰ δώμαϑ' ἵκανε,</l>
@@ -3449,7 +3449,7 @@
 				<l n="347" xml:id="chapter-7-l-3386">πὰρ δὲ γυνὴ δέσποινα λέχος πόρσυνε καὶ εὐνήν.</l>
 			</div>
 			<div n="8" xml:id="chapter-8" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Θ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Θ</head>
 				<l n="1" xml:id="chapter-8-l-3387">῎Ημος δ' ἠριγένεια ϕάνη ῥοδοδάκτυλος ᾽Ηώς,</l>
 				<l n="2" xml:id="chapter-8-l-3388">ὤρνυτ' ἄρ' ἐξ εὐνῆς ἱερὸν μένος ᾽Αλκινόοιο,</l>
 				<l n="3" xml:id="chapter-8-l-3389">ἂν δ' ἄρα Διογενὴς ὦρτο πτολίπορϑος ᾽Οδυσσεύς.</l>
@@ -4036,7 +4036,7 @@
 				<l n="586" xml:id="chapter-8-l-3970">γίνεται, ὅς κεν ἑταῖρος ἐὼν πεπνυμένα εἰδῇ."</l>
 			</div>
 			<div n="9" xml:id="chapter-9" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Ι</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Ι</head>
 				<l n="1" xml:id="chapter-9-l-3971">Τὸν δ' ἀπαμειβόμενος προσέϕη πολύμητις ᾽Οδυσσεύς:</l>
 				<l n="2" xml:id="chapter-9-l-3972">"᾽Αλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν,</l>
 				<l n="3" xml:id="chapter-9-l-3973">ἦ τοι μὲν τόδε καλὸν ἀκουέμεν ἐστὶν ἀοιδοῦ</l>
@@ -4603,7 +4603,7 @@
 				<l n="566" xml:id="chapter-9-l-4534">ἄσμενοι ἐκ ϑανάτοιο, ϕίλους ὀλέσαντες ἑταίρους.</l>
 			</div>
 			<div n="10" xml:id="chapter-10" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Κ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Κ</head>
 				<l n="1" xml:id="chapter-10-l-4535">Αἰολίην δ' ἐς νῆσον ἀϕικόμεϑ'· ἔνϑα δ' ἔναιεν</l>
 				<l n="2" xml:id="chapter-10-l-4536">Αἰόλος ῾Ιπποτάδης, ϕίλος ἀϑανάτοισι ϑεοῖσι,</l>
 				<l n="3" xml:id="chapter-10-l-4537">πλωτῇ ἐνὶ νήσῳ· πᾶσαν δέ τέ μιν πέρι τεῖχος</l>
@@ -5176,7 +5176,7 @@
 				<l n="574" xml:id="chapter-10-l-5104">ὀϕϑαλμοῖσιν ἴδοιτ' ἢ ἔνϑ' ἢ ἔνϑα κιόντα;</l>
 			</div>
 			<div n="11" xml:id="chapter-11" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Λ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Λ</head>
 				<l n="1" xml:id="chapter-11-l-5105">Αὐτὰρ ἐπεί ῥ' ἐπὶ νῆα κατήλϑομεν ἠδὲ ϑάλασσαν,</l>
 				<l n="2" xml:id="chapter-11-l-5106">νῆα μὲν ἂρ πάμπρωτον ἐρύσσαμεν εἰς ἅλα δῖαν,</l>
 				<l n="3" xml:id="chapter-11-l-5107">ἐν δ' ἱστὸν τιϑέμεσϑα καὶ ἱστία νηὶ: μελαίνῃ,</l>
@@ -5817,7 +5817,7 @@
 				<l n="640" xml:id="chapter-11-l-5742">πρῶτα μὲν εἰρεσίῃ, μετέπειτα δὲ κάλλιμος οὖρος.</l>
 			</div>
 			<div n="12" xml:id="chapter-12" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Μ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Μ</head>
 				<l n="1" xml:id="chapter-12-l-5743">Αὐτὰρ ἐπεὶ ποταμοῖο λίπεν ῥόον ᾽Ωκεανοῖο</l>
 				<l n="2" xml:id="chapter-12-l-5744">νηῦς, ἀπὸ δ' ἵκετο κῦμα ϑαλάσσης εὐρυπόροιο</l>
 				<l n="3" xml:id="chapter-12-l-5745">νῆσόν τ' Αἰαίην, ὅϑι τ' ᾽Ηοῦς ἠριγενείης</l>
@@ -6272,7 +6272,7 @@
 				<l n="453" xml:id="chapter-12-l-6194">αὖτις ἀριζήλως εἰρημένα μυϑολογεύειν."</l>
 			</div>
 			<div n="13" xml:id="chapter-13" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Ν</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Ν</head>
 				<l n="1" xml:id="chapter-13-l-6195">῝Ως ἔϕαϑ', οἱ δ' ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ,</l>
 				<l n="2" xml:id="chapter-13-l-6196">κηληϑμῷ δ' ἔσχοντο κατὰ μέγαρα σκιόεντα.</l>
 				<l n="3" xml:id="chapter-13-l-6197">τὸν δ' αὖτ' ᾽Αλκίνοος ἀπαμείβετο ϕώνησέν τε·</l>
@@ -6715,7 +6715,7 @@
 				<l n="440" xml:id="chapter-13-l-6634">ἐς Λακεδαίμονα δῖαν ἔβη μετὰ παῖδ' ᾽Οδυσῆος.</l>
 			</div>
 			<div n="14" xml:id="chapter-14" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Ξ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Ξ</head>
 				<l n="1" xml:id="chapter-14-l-6635">Αὐτὰρ ὁ ἐκ λιμένος προσέβη τρηχεῖαν ἀταρπὸν</l>
 				<l n="2" xml:id="chapter-14-l-6636">χῶρον ἀν' ὑλήεντα δι' ἄκριας, ᾗ οἱ ᾽Αϑήνη</l>
 				<l n="3" xml:id="chapter-14-l-6637">πέϕραδε δῖον ὑϕορβόν, ὅ οἱ βιότοιο μάλιστα</l>
@@ -7245,7 +7245,7 @@
 				<l n="533" xml:id="chapter-14-l-7161">πέτρῃ ὕπο γλαϕυρῇ εὗδον, Βορέω ὑπ' ἰωγῇ.</l>
 			</div>
 			<div n="15" xml:id="chapter-15" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Ο</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Ο</head>
 				<l n="1" xml:id="chapter-15-l-7162">῾Η δ' εἰς εὐρύχορον Λακεδαίμονα Παλλὰς ᾽Αϑήνη</l>
 				<l n="2" xml:id="chapter-15-l-7163">ᾤχετ', ᾽Οδυσσῆος μεγαϑύμου ϕαίδιμον υἱὸν</l>
 				<l n="3" xml:id="chapter-15-l-7164">νόστου ὑπομνήσουσα καὶ ὀτρυνέουσα νέεσϑαι.</l>
@@ -7802,7 +7802,7 @@
 				<l n="557" xml:id="chapter-15-l-7715">ἐσϑλὸς ἐὼν ἐνίαυεν, ἀνάκτεσιν ἤπια εἰδώς.</l>
 			</div>
 			<div n="16" xml:id="chapter-16" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Π</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Π</head>
 				<l n="1" xml:id="chapter-16-l-7716">Τὼ δ' αὖτ' ἐν κλισίῃ ᾽Οδυσεὺς καὶ δῖος ὑϕορβὸς</l>
 				<l n="2" xml:id="chapter-16-l-7717">ἐντύνοντο ἄριστον ἅμ' ἠοῖ, κηαμένω πῦρ,</l>
 				<l n="3" xml:id="chapter-16-l-7718">ἔκπεμψάν τε νομῆας ἅμ' ἀγρομένοισι σύεσσι.</l>
@@ -8286,7 +8286,7 @@
 				<l n="481" xml:id="chapter-16-l-8196">κοίτου τε μνήσαντο καὶ ὕπνου δῶρον ἕλοντο.</l>
 			</div>
 			<div n="17" xml:id="chapter-17" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Ρ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Ρ</head>
 				<l n="1" xml:id="chapter-17-l-8197">῎Ημος δ' ἠριγένεια ϕάνη ῥοδοδάκτυλος ᾽Ηώς,</l>
 				<l n="2" xml:id="chapter-17-l-8198">δὴ τότ' ἔπειϑ' ὑπὸ ποσσὶν ἐδήσατο καλὰ πέδιλα</l>
 				<l n="3" xml:id="chapter-17-l-8199">Τηλέμαχος, ϕίλος υἱὸς ᾽Οδυσσῆος ϑείοιο,</l>
@@ -8895,7 +8895,7 @@
 				<l n="606" xml:id="chapter-17-l-8802">τέρποντ'· ἤδη γὰρ καὶ ἐπήλυϑε δείελον ἦμαρ.</l>
 			</div>
 			<div n="18" xml:id="chapter-18" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Σ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Σ</head>
 				<l n="1" xml:id="chapter-18-l-8803">῎Ηλϑε δ' ἐπὶ πτωχὸς πανδήμιος, ὃς κατὰ ἄστυ</l>
 				<l n="2" xml:id="chapter-18-l-8804">πτωχεύεσκ' ᾽Ιϑάκης, μετὰ δ' ἔπρεπε γαστέρι μάργῃ</l>
 				<l n="3" xml:id="chapter-18-l-8805">ἀζηχὲς ϕαγέμεν καὶ πιέμεν· οὐ δέ οἱ ἦν ἲς</l>
@@ -9325,7 +9325,7 @@
 				<l n="428" xml:id="chapter-18-l-9229">βάν ῥ' ἴμεναι κείοντες ἑὰ πρὸς δώμαϑ' ἕκαστος.</l>
 			</div>
 			<div n="19" xml:id="chapter-19" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Τ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Τ</head>
 				<l n="1" xml:id="chapter-19-l-9230">Αὐτὰρ ὁ ἐν μεγάρῳ ὑπελείπετο δῖος ᾽Οδυσσεύς</l>
 				<l n="2" xml:id="chapter-19-l-9231">μνηστήρεσσι ϕόνον σὺν ᾽Αϑήνῃ μερμηρίζων.</l>
 				<l n="3" xml:id="chapter-19-l-9232">αἶψα δὲ Τηλέμαχον ἔπεα πτερόεντα προσηύδα·</l>
@@ -9932,7 +9932,7 @@
 				<l n="604" xml:id="chapter-19-l-9833">ἡδὺν ἐπὶ βλεϕάροισι βάλε γλαυκῶπις ᾽Αϑήνη.</l>
 			</div>
 			<div n="20" xml:id="chapter-20" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Υ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Υ</head>
 				<l n="1" xml:id="chapter-20-l-9834">Αὐτὰρ ὁ ἐν προδόμῳ εὐνάζετο δῖος ᾽Οδυσσεύς:</l>
 				<l n="2" xml:id="chapter-20-l-9835">κὰμ μὲν ἀδέψητον βοέην στόρεσ', αὐτὰρ ὕπερϑεν</l>
 				<l n="3" xml:id="chapter-20-l-9836">κώεα πόλλ' ὀίων, τοὺς ἱρεύεσκον ᾽Αχαιοί·</l>
@@ -10329,7 +10329,7 @@
 				<l n="394" xml:id="chapter-20-l-10227">ϑησέμεναι· πρότεροι γὰρ ἀεικέα μηχανόωντο.</l>
 			</div>
 			<div n="21" xml:id="chapter-21" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Φ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Φ</head>
 				<l n="1" xml:id="chapter-21-l-10228">Τῇ δ' ἄρ' ἐπὶ ϕρεσὶ ϑῆκε ϑεὰ γλαυκῶπις ᾽Αϑήνη,</l>
 				<l n="2" xml:id="chapter-21-l-10229">κούρῃ ᾽Ικαρίοιο, περίϕρονι Πηνελοπείῃ,</l>
 				<l n="3" xml:id="chapter-21-l-10230">τόξον μνηστήρεσσι ϑέμεν πολιόν τε σίδηρον</l>
@@ -10765,7 +10765,7 @@
 				<l n="434" xml:id="chapter-21-l-10660">πὰρ ϑρόνον ἑστήκει κεκορυϑμένος αἴϑοπι χαλκῷ.</l>
 			</div>
 			<div n="22" xml:id="chapter-22" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Χ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Χ</head>
 				<l n="1" xml:id="chapter-22-l-10661">Αὐτὰρ ὁ γυμνώϑη ῥακέων πολύμητις ᾽Οδυσσεύς,</l>
 				<l n="2" xml:id="chapter-22-l-10662">ἆλτο δ' ἐπὶ μέγαν οὐδὸν ἔχων βιὸν ἠδὲ ϕαρέτρην</l>
 				<l n="3" xml:id="chapter-22-l-10663">ἰῶν ἐμπλείην, ταχέας δ' ἐκχεύατ' ὀιστοὺς</l>
@@ -11267,7 +11267,7 @@
 				<l n="501" xml:id="chapter-22-l-11159">κλαυϑμοῦ καὶ στοναχῆς, γίνωσκε δ' ἄρα ϕρεσὶ πάσας.</l>
 			</div>
 			<div n="23" xml:id="chapter-23" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Ψ</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Ψ</head>
 				<l n="1" xml:id="chapter-23-l-11160">Γρηὺ:ς δ' εἰς ὑπερῷ' ἀνεβήσετο καγχαλόωσα,</l>
 				<l n="2" xml:id="chapter-23-l-11161">δεσποίνῃ ἐρέουσα ϕίλον πόσιν ἔνδον ἐόντα·</l>
 				<l n="3" xml:id="chapter-23-l-11162">γούνατα δ' ἐρρώσαντο, πόδες δ' ὑπερικταίνοντο.</l>
@@ -11638,7 +11638,7 @@
 				<l n="372" xml:id="chapter-23-l-11527">νυκτὶ κατακρύψασα ϑοῶς ἐξῆγε πόληος.</l>
 			</div>
 			<div n="24" xml:id="chapter-24" type="chapter" data-level="1">
-				<head xml:lang="grc-Grek-x-ancient">ΟΔΥΣΣΕΙΑΣ Ω</head>
+				<head xml:lang="grc-Grek">ΟΔΥΣΣΕΙΑΣ Ω</head>
 				<l n="1" xml:id="chapter-24-l-11528">Ερμῆς δὲ ψυχὰς Κυλλήνιος ἐξεκαλεῖτο</l>
 				<l n="2" xml:id="chapter-24-l-11529">ἀνδρῶν μνηστήρων· ἔχε δὲ ῥάβδον μετὰ χερσὶ</l>
 				<l n="3" xml:id="chapter-24-l-11530">καλὴν, χρυσείην, τῇ τ' ἀνδρῶν ὄμματα ϑέλγει,</l>
