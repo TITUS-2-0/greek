@@ -1,5 +1,5 @@
 # Greek
-[![TEI validation](https://github.com/TITUS-2-0/greek/actions/workflows/validate.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/greek/actions/workflows/validate.yaml)
+[![TEI validation](https://github.com/TITUS-2-0/greek/actions/workflows/validate_data.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/greek/actions/workflows/validate_data.yaml)
 ## Datasets
 | id      | language                  | titus                                                                                                           | metadata                                                                         | issue                                                  | status         |
 |:--------|:--------------------------|:----------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:-------------------------------------------------------|:---------------|
