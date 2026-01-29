@@ -25,10 +25,10 @@
         <date when="2026-01-29">2026-01-29</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of Odyssee by Homer (v0.0.1.draft). 2026-01-29. By: Marina Benedetti, J. Gippert, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of Odyssee by Homer (v0.1.0). 2026-01-29. By: Marina Benedetti, J. Gippert, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">0.0.1.draft</idno>
+        <idno type="version">0.1.0</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="odyss">
