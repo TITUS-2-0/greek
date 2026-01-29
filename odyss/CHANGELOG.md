@@ -8,8 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-01-29
+
 ### Added
-- split into <lg> (2026-01-29)
+- split into `<lg>` (2026-01-29)
 
 ### Changed
 - language update (2025-04-04)
